@@ -68,31 +68,6 @@ Generate reports and insights
 
 
 
-How to Run ->
-
-Step 1: Clone the repository
-git clone https://github.com/your-username/house-price-prediction.git
-
-Step 2: Navigate to project folder
-cd house-price-prediction
-
-Step 3: Run the script
-python house_price_prediction.py
-
-Sample Output
-
-Training progress with error reduction
-
-Model weights for each feature
-
-Predicted vs actual price comparison
-
-Average prediction error
-
-Feature importance chart
-
-
-
 Technologies Used ->
 
 Python
